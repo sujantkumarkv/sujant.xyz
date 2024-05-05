@@ -2,23 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/notes/</loc>
+    <loc>https://sujant.xyz/posts/notes/</loc>
     <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://sujant.xyz/posts/</loc>
     <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://sujant.xyz/</loc>
     <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/timeseries/</loc>
-    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <loc>https://sujant.xyz/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/why/</loc>
-    <lastmod>2024-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://sujant.xyz/tags/</loc>
   </url>
 </urlset>
