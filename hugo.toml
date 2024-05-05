@@ -1,0 +1,31 @@
+baseURL = 'https://sujant.xyz/'
+languageCode = 'en-us'
+title = 'sujānt kumar kv'
+theme = 'Papermod'
+
+[params]
+  [params.homeInfoParams]
+    Title = "konnichiwa \U0001F44B"
+    Content = "it's said that mathematically, the probability of you doing exactly what you're doing right now is *1 in 400,000,000,000,000,000* and you landed here. so, welcome to my corner of the internet."
+
+  [[params.socialIcons]]
+    name = 'email'
+    url = 'mailto:sujantdev@gmail.com'
+  [[params.socialIcons]]
+    name = 'x'
+    url = 'https://x.com/sujantkumarkv'
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/sujantkumarkv'
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
