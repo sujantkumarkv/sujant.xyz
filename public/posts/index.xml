@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on sujānt kumar kv</title>
-    <link>https://sujant.xyz/posts/</link>
-    <description>Recent content in Posts on sujānt kumar kv</description>
+    <title>Posts on sujānt kumār kv</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on sujānt kumār kv</description>
     <generator>Hugo -- 0.124.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sujant.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>notes</title>
-      <link>https://sujant.xyz/posts/notes/</link>
+      <link>http://localhost:1313/posts/notes/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://sujant.xyz/posts/notes/</guid>
+      <guid>http://localhost:1313/posts/notes/</guid>
       <description>this contains my notes, me logging my thoughts on projects/goals/life etc as i go through them along the way. it would be edited constantly &amp;amp; the latest log would always be on top.
 19apr24 late update but lagllama + encoder-decoder model is done.
 03apr24 have to complete the time-series-transformers project (also, college&amp;rsquo;s major project) which includes multivariate data: streamflow, rainfall, temperature etc. i&amp;rsquo;ve been procrastinating it on forever &amp;amp; my friend did his part of LSTM, i gotta ship something by end of today.</description>
+    </item>
+    <item>
+      <title>timeseries transformers</title>
+      <link>http://localhost:1313/posts/timeseries/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/timeseries/</guid>
+      <description>i discuss my major project on using deep learning for prediction of streamflow of nethravathi stream of kaveri river, india.</description>
+    </item>
+    <item>
+      <title>why</title>
+      <link>http://localhost:1313/posts/why/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/why/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

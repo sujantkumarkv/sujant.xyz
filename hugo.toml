@@ -1,7 +1,7 @@
 baseURL = 'https://sujant.xyz/'
 languageCode = 'en-us'
-title = 'sujānt kumar kv'
-theme = 'Papermod'
+title = 'sujānt kumār kv'
+theme = 'PaperMod'
 
 [params]
   [params.homeInfoParams]
