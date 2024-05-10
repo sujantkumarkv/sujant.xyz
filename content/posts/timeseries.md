@@ -1,7 +1,9 @@
 +++
 title = 'timeseries transformers'
 date = 2024-05-05
-draft = true
+draft = false
 +++
 
-> i discuss my major project on using deep learning for prediction of streamflow of nethravathi stream of kaveri river, india.
+> i discuss my project on using deep learning (notably, transformers' flavours) for prediction of streamflow of river stream (here, nethravathi basin).
+
+*coming soon...*
