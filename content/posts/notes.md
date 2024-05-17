@@ -11,7 +11,7 @@ draft = false
 started diving deep into mlx. its new, so its clean and the implementations of `nn.Module`, c++ bindings with `mlx.core` is interesting. i did the 'hello world' of DL with training mlp on mnist. will move onto LM and then vision.
 
 wrapped in my morning deep thought: 
-![love-and-life-thought](/assets/notes/17may24.1.png)
+![love-and-life-thought](/assets/notes/17may24.1.webp)
 
 - 10may24
 
@@ -21,7 +21,7 @@ now, work:
 i have a list of interesting work to explore. i'm slow, like a damn tortoise. i need speed, become speed because "slowness once justifies slowness elsewhere". what i'm absolutely sure of that becoming genuinely cracked is the true path i need to take. there're a lot of talkers on X (sometimes i feel i'm them too) but raw quality of a diamond is what matters. so son, "if you gotta shine like a son, first burn like a sun". its fun, not that bad though. I CAN JUST DO THINGS & BECOME GOOD.
 
 the work to explore includes different "arcs":
-![todos-ss](/assets/notes/10may24.1.png)
+![todos-ss](/assets/notes/10may24.1.webp)
 
 i'm excited by the fact that i can just train models on my mac with mlx, that unlocks so much. gotta try train smol million param models beyond chinchilla (since llama3), then vision & so on. also, "tokenizer is a necessary evil". karpathy also *delved* into it, so gotta do that too.
 
