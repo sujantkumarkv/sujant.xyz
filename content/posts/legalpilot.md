@@ -4,7 +4,7 @@ date = 2024-05-21T19:28:46+05:30
 draft = false
 +++
 
-the power and usecases of LLMs were evident when i used them. my friend and i were discussing legal arbitration issues in india because his dad had to oversee & help with documents for a few cases. it was clear that legal being the most text intensive text-in text-out business could leverage LLMs. so in mid 2023, i started skipping classes in learning all the ways to make this happen. also participated in buildspace to keep track & ship faster.
+the power and usecases of LLMs were evident when i used them. my friend and i were discussing legal arbitration issues in india because his dad had to oversee & help with documents for a few cases. it was clear that legal being the most text intensive text-in text-out business could leverage LLMs. so in **_mid-2023_**, i started skipping classes in learning all the ways to make this happen. also participated in buildspace to keep track & ship faster.
 ![s4](/assets/legalpilot/buildspace.webp)
 being gpu poor, i can't randomly test a bunch of hypothesis on models, i need to understand it really well and also its possible errors beforehand so as to not burn gpu dollars. i put extra time to read post-training reports, blogs etc. i dived deep into transformers and wanted to conquer it to each matmul also because i wanted to understand what would be the best solution to what i'm building. i loved gpt4 responses while brainstorming together.
 ![lobeugpt4](/assets/legalpilot/lobeugpt4.webp)
