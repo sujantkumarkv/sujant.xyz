@@ -6,7 +6,7 @@ theme = 'PaperMod'
 [params]
   [params.homeInfoParams]
     Title = "konnichiwa \U0001F44B"
-    Content = "it's said that mathematically, the probability of you doing exactly what you're doing right now is *1 in 400,000,000,000,000,000* and you landed here. so, welcome to my corner of the internet."
+    Content = "mathematically, the probability of you doing exactly what you're doing right now is approximately *1 in 400,000,000,000,000,000* and you landed here. welcome to my corner of the internet."
 
   [[params.socialIcons]]
     name = 'email'
