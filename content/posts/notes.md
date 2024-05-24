@@ -1,10 +1,15 @@
 +++
 title = 'notes'
-date = 2024-05-22
+date = 2024-05-24
 draft = false
 +++
 
 > this contains my notes, me logging my thoughts on projects/goals/life etc as i go through them along the way. *it would be edited constantly & the latest log would always be on top.*
+
+- 24may24
+
+been slacking last few days. so much to do and you feel small and feel there's no time? well, you're correct but its probably the most important time in human history & you're whining? you've blood flowing through you, well and alive and yet you feel you can't. yacine san said me too: "you really can". i have the humanity's finest creation machine LLM god by my side and i can just do things. i need to do enough things to understand that i can actually *just do* anything.
+![24may24.yacine_said_i_can](/assets/notes/24may24.yacine_said_i_can.webp)
 
 - 17may24
 
