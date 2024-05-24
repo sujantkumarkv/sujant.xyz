@@ -11,7 +11,7 @@ being gpu poor, i can't randomly test a bunch of hypothesis on models, i need to
 
 LLMs hallucinate & as karpathy puts it that its not a bug, but a feature but the legal world needs aboslute certainity, not just the law but its interpretation changes how its carried out, so each word, grammar, named entity recoginition etc of past cases and much more, i was looking for the best embedding models, finetuning its layers to get better embeddings as a result, reading research on it and so on.
 
-i decided to go ahead with taking a llama2-7b, finetune it which shall supposedly give me good quality embeddings from initial model layers which i can use it for semantic or semantic+normal (hybrid) search to find retrieve similar cases and then use another llama2-70b (finetuned on indian law or maybe not) to get final results via retrieval augmented generation or RAG.
+i decided to go ahead with taking a llama2-7b, finetune it which shall supposedly give me good quality embeddings from initial model layers which i can use it for semantic or semantic+normal (hybrid) search to find retrieve similar cases and then use another llama2-70b (finetuned on indian law knowledge) to get final results via retrieval augmented generation or RAG.
 
 i was confused as if the initial decoder only llama2's embeddings were how much similar or different to other embedding only models or those that were spit out from `llama.cpp`'s `'./embedding'` command, am i even doing it correct or which would be better quality?
 ![llamacpp_embd](/assets/legalpilot/llamacpp_embd.webp)
