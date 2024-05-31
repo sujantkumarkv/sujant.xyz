@@ -7,7 +7,8 @@
 <meta name="robots" content="noindex, nofollow">
 <title>timeseries transformers | sujānt kumār kv</title>
 <meta name="keywords" content="">
-<meta name="description" content="i discuss my major project on using deep learning for prediction of streamflow of nethravathi stream of kaveri river, india.">
+<meta name="description" content="i discuss my college project on using deep learning (notably, transformers&rsquo; flavours) for prediction of streamflow of river stream (here, hemavathi basin).
+the project involves rainfall, river streamflow &amp; temperature data for the study area: hemavathi basin, kaveri river, karnataka, india. thanks to phd senior mukul sahu for arranging the data from India Metrological Department (IMD). The data consisted of daily data points from 2003-2020 with a total of 6575 rows each.">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/posts/timeseries/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.b609c58d5c11bb90b1a54e04005d74ad1ddf22165eb79f5533967e57df9c3b50.css" integrity="sha256-tgnFjVwRu5CxpU4EAF10rR3fIhZet59VM5Z&#43;V9&#43;cO1A=" rel="preload stylesheet" as="style">
@@ -118,20 +119,55 @@
     
     <h1 class="post-title entry-hint-parent">
       timeseries transformers
-      <span class="entry-hint" title="Draft">
-        <svg xmlns="http://www.w3.org/2000/svg" height="35" viewBox="0 -960 960 960" fill="currentColor">
-          <path
-            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
-        </svg>
-      </span>
     </h1>
-    <div class="post-meta"><span title='2024-05-05 00:00:00 +0000 UTC'>May 5, 2024</span>
+    <div class="post-meta"><span title='2024-05-23 00:00:00 +0000 UTC'>May 23, 2024</span>
 
 </div>
   </header> 
   <div class="post-content"><blockquote>
-<p>i discuss my major project on using deep learning for prediction of streamflow of nethravathi stream of kaveri river, india.</p>
+<p>i discuss my college project on using deep learning (notably, transformers&rsquo; flavours) for prediction of streamflow of river stream (here, hemavathi basin).</p>
 </blockquote>
+<p>the project involves rainfall, river streamflow &amp; temperature data for the study area: hemavathi basin, kaveri river, karnataka, india.
+<img loading="lazy" src="/assets/timeseries/hemavathi_basin.webp" alt="hemavathi_basin"  />
+
+thanks to phd senior <code>mukul sahu</code> for arranging the data from India Metrological Department (IMD). The data consisted of daily data points from <code>2003-2020</code> with a total of <code>6575 rows</code> each.</p>
+<p><img loading="lazy" src="/assets/timeseries/data.webp" alt="data.webp"  />
+
+<img loading="lazy" src="/assets/timeseries/discharge_data.webp" alt="discharge_data.webp"  />
+
+<img loading="lazy" src="/assets/timeseries/waterlevel_data.webp" alt="waterlevel_data.webp"  />
+</p>
+<p>mostly traditional machine/deep learning techniques are used in this niche space of hydrology. he had some experience with Lstm &amp; Cnn but i proposed that attention based transformers shall be explored and i started working on it. my friend <a href="https://www.linkedin.com/in/nihal-badiger-a53a61196/"><code>nihal badiger</code></a> trained xgboost &amp; Lstm models. i was exploring on how to best make timeseries data work with transformers. the work includes around 1month of worktime, and may see more progress before its published.</p>
+<p><em>as a result, this page will probably be updated in the future.</em></p>
+<p>the intuition is to use timestamps as positional encodings as its used in language modelling. i built encoder-decoder vanilla transformer and also use <a href="https://arxiv.org/abs/2310.08278"><code>LagLlama</code></a> which is trained on timeseries with llama architecture. I also read a chinese paper doing something similar with yangtze river <a href="https://www.researchgate.net/publication/361160854_Improved_Transformer_Model_for_Enhanced_Monthly_Streamflow_Predictions_of_the_Yangtze_River"><code>Liu et al., 2022</code></a> where they modify the transformer architecture to fit their data, we had different data than them though. Another interesting paper which introduces <a href="https://arxiv.org/abs/2109.12218"><code>spacetimeformer</code></a> concept of spatio-temporal transformers for multivariate timeseries data (yet to be tested for this project)</p>
+<ul>
+<li>vanilla encoder-decoder based model</li>
+</ul>
+<p>It&rsquo;s a ~60M parameter model trained on 10 epochs over the multivariate data of average temperature, waterlevel, streamflow &amp; a generated lag feature: streamflow_lag_1. find relevant code, <a href="https://github.com/sujantkumarkv/timeseries-transformers/tree/main/encoderdecoder"><code>here</code></a>.</p>
+<p><img loading="lazy" src="/assets/timeseries/data.csv.webp" alt="data.csv.webp"  />
+</p>
+<p>overview of the model, model configurations and validation scores.</p>
+<p><a href="https://x.com/sujantkumarkv/status/1775881363373388243"><img loading="lazy" src="/assets/timeseries/encoderdecoder_stats.webp" alt="encoderdecoder_stats.webp"  />
+</a></p>
+<p>the biggest pain i had to bear was digging deep into <a href="https://github.com/awslabs/gluonts"><code>gluonts</code></a> libary by amazon which is used for data processing &amp; handling in both examples.</p>
+<p><img loading="lazy" src="/assets/timeseries/data_proc_pain.webp" alt="data_proc_pain.webp"  />
+</p>
+<p>the <a href="https://huggingface.co/blog/time-series-transformers"><code>huggingface example blog</code></a> consists of a decoder-only model with a probablistic head &amp; uses <a href="https://huggingface.co/datasets/monash_tsf/viewer/tourism_monthly"><code>monash_tsf</code></a> dataset for timeseries which was very confusing as to what does the data points represent &amp; in which order.</p>
+<ul>
+<li>latest foundation model called <code>LagLlama</code>, based on the Llama architecture from Meta but trained specifically on huge amounts of time-series data which has been used with zero-shot and fine-tuned upon our datasets to further improve the quality of results.</li>
+</ul>
+<p>here&rsquo;s the zeroshot discharge/streamflow predictions, it does impressively well for its size:</p>
+<p><img loading="lazy" src="/assets/timeseries/lagllama.zeroshot.webp" alt="lagllama.zeroshot.webp"  />
+</p>
+<p>Further, we finetune the 2.4M parameter lagllama model.</p>
+<p><img loading="lazy" src="/assets/timeseries/lagllama.webp" alt="lagllama.webp"  />
+</p>
+<p>I trained it for <code>50 epochs on a Nvidia T4 GPU</code> freely available in google colab &amp; other online services like lightning studios.</p>
+<p><img loading="lazy" src="/assets/timeseries/lagllama.ft.webp" alt="lagllama.ft.webp"  />
+</p>
+<p>here&rsquo;s lagllama github repo. it contains more details &amp; notebooks released by the team.
+<a href="https://github.com/time-series-foundation-models/lag-llama"><code>lagllama</code></a>.</p>
+<p><em>what&rsquo;s next: more updates may involve testing: amazon&rsquo;s cronos model, timegpt, spacetimeformer (spatio-temporal), decoder-only transformer.</em></p>
 
 
   </div>

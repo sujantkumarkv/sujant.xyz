@@ -6,30 +6,61 @@
     <description>Recent content in Posts on sujānt kumār kv</description>
     <generator>Hugo -- 0.124.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 19:29:12 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mlx</title>
+      <link>http://localhost:1313/posts/mlx/</link>
+      <pubDate>Sat, 25 May 2024 19:29:12 +0530</pubDate>
+      <guid>http://localhost:1313/posts/mlx/</guid>
+      <description>i dig deep into new machine learning library for apple metal, mlx. its clean, built with pytorch, numpy design fundamental &amp;amp; hackable. aiming to build models on top and contribute.</description>
+    </item>
     <item>
       <title>notes</title>
       <link>http://localhost:1313/posts/notes/</link>
-      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/notes/</guid>
       <description>this contains my notes, me logging my thoughts on projects/goals/life etc as i go through them along the way. it would be edited constantly &amp;amp; the latest log would always be on top.
-19apr24 late update but lagllama + encoder-decoder model is done.
-03apr24 have to complete the time-series-transformers project (also, college&amp;rsquo;s major project) which includes multivariate data: streamflow, rainfall, temperature etc. i&amp;rsquo;ve been procrastinating it on forever &amp;amp; my friend did his part of LSTM, i gotta ship something by end of today.</description>
+31may24 i feel so limited many a times. saw demon slayer&amp;rsquo;s hashira training arc new episode: tanjiro is training &amp;amp; others feel like he&amp;rsquo;s something different and beyond their common humans BUT this is how he felt when he started, he felt helpless and cried.</description>
     </item>
     <item>
       <title>timeseries transformers</title>
       <link>http://localhost:1313/posts/timeseries/</link>
-      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/timeseries/</guid>
-      <description>i discuss my major project on using deep learning for prediction of streamflow of nethravathi stream of kaveri river, india.</description>
+      <description>i discuss my college project on using deep learning (notably, transformers&amp;rsquo; flavours) for prediction of streamflow of river stream (here, hemavathi basin).
+the project involves rainfall, river streamflow &amp;amp; temperature data for the study area: hemavathi basin, kaveri river, karnataka, india. thanks to phd senior mukul sahu for arranging the data from India Metrological Department (IMD). The data consisted of daily data points from 2003-2020 with a total of 6575 rows each.</description>
+    </item>
+    <item>
+      <title>saas attempts</title>
+      <link>http://localhost:1313/posts/saasattempts/</link>
+      <pubDate>Tue, 21 May 2024 19:32:52 +0530</pubDate>
+      <guid>http://localhost:1313/posts/saasattempts/</guid>
+      <description>it was during mid-late 2023. with @sourav, i was trying for something to get off the ground.
+tried a prompts API marketplace, find here. got some traction but obviously no one would pay (not that i didn&amp;rsquo;t expect that completely)
+also tried to launch a better features chatgpt ui (it was very bad at that time). some guy on twitter launched it, was building fast &amp;amp; made profit, so honestly this is what i thought to replicate.</description>
+    </item>
+    <item>
+      <title>crypto arc work</title>
+      <link>http://localhost:1313/posts/cryptoarc/</link>
+      <pubDate>Tue, 21 May 2024 19:31:25 +0530</pubDate>
+      <guid>http://localhost:1313/posts/cryptoarc/</guid>
+      <description>around 2021-2022, i first found blockchains and it was fascinating as a piece of technology to me and specially after you know the &amp;ldquo;satoshi lore&amp;rdquo;, how can one not be a fan? he singlehandely catalysed a financial change. bitcoin wasn&amp;rsquo;t created to create digital money and this isn&amp;rsquo;t what most people don&amp;rsquo;t understand, instead it came to exist naturally as part on how the system was architected. i&amp;rsquo;m open to learn whatever strikes my curiosity, so next thing i knew was heads down into blockchain papers.</description>
+    </item>
+    <item>
+      <title>hobby startup legalpilot</title>
+      <link>http://localhost:1313/posts/legalpilot/</link>
+      <pubDate>Tue, 21 May 2024 19:28:46 +0530</pubDate>
+      <guid>http://localhost:1313/posts/legalpilot/</guid>
+      <description>the power and usecases of LLMs were evident when i used them. my friend and i were discussing legal arbitration issues in india because his dad had to oversee &amp;amp; help with documents for a few cases. it was clear that legal being the most text intensive text-in text-out business could leverage LLMs. so in mid-2023, i started skipping classes in learning all the ways to make this happen. also participated in buildspace to keep track &amp;amp; ship faster.</description>
     </item>
     <item>
       <title>why</title>
       <link>http://localhost:1313/posts/why/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/why/</guid>
-      <description></description>
+      <description>i often have periods of time where i doubt the very nature of &amp;rsquo;life&amp;rsquo; as we live. it happens at a weirdly strongly manner and i think too much on it (often). here, i ponder what the &amp;ldquo;why&amp;rdquo; of my life is.
+coming soon&amp;hellip;</description>
     </item>
   </channel>
 </rss>

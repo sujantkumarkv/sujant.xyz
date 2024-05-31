@@ -1,10 +1,23 @@
 +++
 title = 'notes'
-date = 2024-05-24
+date = 2024-05-31
 draft = false
 +++
 
 > this contains my notes, me logging my thoughts on projects/goals/life etc as i go through them along the way. *it would be edited constantly & the latest log would always be on top.*
+
+
+- 31may24
+
+i feel so limited many a times. saw demon slayer's hashira training arc new episode: tanjiro is training & others feel like he's something different and beyond their common humans BUT this is how he felt when he started, he felt helpless and cried. its when he faced upper ranks, lost rengoku, almost died many times but survived. those scars are what make him, but its not him to complain or stop, always focused on high quality result: to defeat muzan. his insane grueling training but with a kind smile on his face is a such a powerful thing to see, it moved me.
+
+the limitations i feel are self-inflicted, i'm on self-help for sabotage, no one from outside is even required lol. saw a 18yo waterloo guy on X building an oss replit. insane. i can push my limits up there. "skill issue" as yacine tweeted came from waterloo guys teasing for not getting into janestreet & making 400k as interns. now, that's another level of playing field but people exist there, 
+
+i can rise to it too. constantly raising my limits is the only thing i need to do: with insane work and a smile because i'm not fighting against life, i'm living it. it should be fun.
+
+> "surpass your limits, right here, right now. thats the only way" ---yami sukehiro.
+
+
 
 - 24may24
 
