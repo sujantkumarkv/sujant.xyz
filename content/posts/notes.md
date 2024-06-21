@@ -7,6 +7,14 @@ draft = false
 > this contains my notes, me logging my thoughts on projects/goals/life etc as i go through them along the way. *it would be edited constantly & the latest log would always be on top.*
 
 
+- 21jun24
+
+realising that i seriously overcompare myself to others' situations & results. maharshi is doing great work, i haven't 'delved' into C but seeing smolorg, i think i should focus on that now. i need to do my things daily & daily and in some time, weeks or months, it'll be great too. i keep shifting my focus too much remember this:
+
+{{< twitter user="sujantkumarkv" id="1799415913365799057" >}}
+
+> "once in a moment of joy and clarity, once i have realized and decided what's my well being, then i shall just do it. even if it feels like hell later, do it in an unwavering way. to such unwavering intent, it just can't be denied. that's well being."
+
 - 31may24
 
 i feel so limited many a times. saw demon slayer's hashira training arc new episode: tanjiro is training & others feel like he's something different and beyond their common humans BUT this is how he felt when he started, he felt helpless and cried. its when he faced upper ranks, lost rengoku, almost died many times but survived. those scars are what make him, but its not him to complain or stop, always focused on high quality result: to defeat muzan. his insane grueling training but with a kind smile on his face is a such a powerful thing to see, it moved me.
@@ -22,14 +30,16 @@ i can rise to it too. constantly raising my limits is the only thing i need to d
 - 24may24
 
 been slacking last few days. so much to do and you feel small and feel there's no time? well, you're correct but its probably the most important time in human history & you're whining? you've blood flowing through you, well and alive and yet you feel you can't. yacine san said me too: "you really can". i have the humanity's finest creation machine LLM god by my side and i can just do things. i need to do enough things to understand that i can actually *just do* anything.
-![24may24.yacine_said_i_can](/assets/notes/24may24.yacine_said_i_can.webp)
+
+{{< twitter user="sujantkumarkv" id="1792529016001642823" >}}
 
 - 17may24
 
 started diving deep into mlx. its new, so its clean and the implementations of `nn.Module`, c++ bindings with `mlx.core` is interesting. i did the 'hello world' of DL with training mlp on mnist. will move onto LM and then vision.
 
 wrapped in my morning deep thought: 
-![love-and-life-thought](/assets/notes/17may24.1.webp)
+![todos-ss](/assets/notes/17may24.webp)
+
 
 - 10may24
 
