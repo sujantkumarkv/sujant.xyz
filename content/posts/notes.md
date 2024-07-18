@@ -6,6 +6,17 @@ draft = false
 
 > this contains my notes, me logging my thoughts on projects/goals/life etc as i go through them along the way. *it would be edited constantly & the latest log would always be on top.*
 
+- 18jul24
+
+a small win, we got a vc experienced with markets as kinda mentor, also raised a million INR (~12k+USD) for the fund, slow but definite growth. me & vishudh are flying to delhi from 21st july to meet & learn from him. capital is cheap but someone willing to give their time & guide us is more valuable.
+
+i've been on a break from spaceship.im & haven't formally started as the founder asked to, fine. fingers crossed as i've a great potential offer, had the introduction call yesterday. more on my work, i think i'm very slow still. the shipping velocity is bad. i've thought of so many projects but haven't done. 
+
+minecraft computer is wip, CCA yet to be done. prabhav yet to ship with AI chat. i need to push for speed more. i often just sleep thinking i won't. i've a lot on my mind but don't seem to bring it into action. why? because my mind & body aren't synced well. solutions to all of my problems seem to come from fixing inner self, ie, my meditative practices. i started doing my practices again & now running 2kms daily. the boxing coach told me he doesn't have place & my plans down the drain now. let's see if i'll go for gym+running instead, definitely need to learn mma later.
+
+![18jul24](/assets/notes/18jul24.webp)
+
+also, was watching goggins & one thing he said really stuck me. the host talks about how he feels in a morning, lots of possible problems, this & that... and goggins says, "keep talking".. damn that was so freaking cold. he seems to have crossed the mental wall and i think that's the most important part. many people (me) having the ability REFUSE to do that extra work, study that extra but don't. why? afraid of action. he now thrives on that exactly. its fun knowing almost no one else in the world will go & do this work which he's gonna go & do. its like the isekai anime being thrown to the hell dungeon & you gotta face death, survive, eventually flourish in that darkeness and become strong. each time i'm in a similar situation, i gotta remember this. its not that hard, especially in modern day. everyone is stuck to their screens, slacking, jerking, procrastinating. i have to thrive of this darkness and i will.
 
 - 21jun24
 
