@@ -6,6 +6,14 @@ draft = false
 
 > this contains my notes, me logging my thoughts on projects/goals/life etc as i go through them along the way. *it would be edited constantly & the latest log would always be on top.*
 
+- 23aug24
+
+was watching bluelock. few lines about growing in tough situations hit me. how's awakening like? its not like supersaiyan though, it feels more like solving the jigsaw puzzle after many trials & errors. its when all pieces just fall into places but you gotta make them fall. true awakening happens when you understand who you really are. Becoming aware of your limitations changes how you see & think about everything.
+
+Me, i've many a times adjusted myself according to the failures i had in life. during jee arc too, i thought now, have i ever went insane? why not? maybe i really did not want it bad enough. when am i going to? i'm grateful but definitely not the best position i'm in right now, definitely much worse than i thought i could do. i just feel like an impostor, grifter who pretended to himself that i wanna win, do the greatest things humanly possible & also talked to others about it..
+...but...
+did i fool myself? i say no but i doubt my own actions. my decisions/motivations & actions haven't been in sync, a good reason being i don't command my discipline with body as i thought it in my mind. i need to train physically more too. mostly i know what to do. everyone does. imo the mindset that i'm a tool in this cosmos to do my part is better than thinking everyything is beneath me BUT even in this, i bet i gotta be the best tool there is. if i'm not harsh with myself about actually wanting to win & not take back/adjust with losses (its fine to think that i learned from failure or not stress too much but is that enough? eg, the best atheletes have very harsh lives & the sport is their only way out. their hunger is beyond what i see right now, that's what i lack.) i'm not good enough, but as the midnight trek experience, I JUST NEED TO FOCUS ON WALKING THAT NEXT STEP, then CONTINUE WALKING JUST THAT NEXT STEP.
+
 - 18jul24
 
 a small win, we got a vc experienced with markets as kinda mentor, also raised a million INR (~12k+USD) for the fund, slow but definite growth. me & vishudh are flying to delhi from 21st july to meet & learn from him. capital is cheap but someone willing to give their time & guide us is more valuable.
