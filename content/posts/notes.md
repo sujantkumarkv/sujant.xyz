@@ -6,6 +6,16 @@ draft = false
 
 > this contains my notes, me logging my thoughts on projects/goals/life etc as i go through them along the way. *it would be edited constantly & the latest log would always be on top.*
 
+- 27aug24
+
+when isagi's team won against reo, kunigami & chigiri, chigiri was chosen. reo was playing out of his hatred to prove nagi wrong for leaving him but he lost. he's told, 
+
+"become the one who chooses, not the one waiting to be chosen. what're you even playing for? only those with the potential to be the best in the world can survive here."
+
+AND SO THIS IS WHAT I SAY MYSELF TOO.
+
+![27aug24_bluelock_manga_panel](/assets/notes/27aug24_bluelock.webp)
+
 - 23aug24
 
 was watching bluelock. few lines about growing in tough situations hit me. how's awakening like? its not like supersaiyan though, it feels more like solving the jigsaw puzzle after many trials & errors. its when all pieces just fall into places but you gotta make them fall. true awakening happens when you understand who you really are. Becoming aware of your limitations changes how you see & think about everything.

@@ -18,4 +18,19 @@ def convert_png_to_webp(directory):
             os.remove(file_path)
 
 # Usage
-convert_png_to_webp('./static/assets/lowlevel')
+convert_png_to_webp('./static/assets/notes')
+
+# def convert_png_to_ico(png_path, ico_path):
+#     # Open the PNG image file
+#     image = Image.open(png_path)
+#     # Save the image in ICO format
+#     image.save(ico_path, format='ICO')
+
+# # Define the paths for the input PNG and output ICO files
+# png_path = './static/favicon.png'
+# ico_path = './static/favicon.ico'
+
+# # Convert the PNG to ICO
+# convert_png_to_ico(png_path, ico_path)
+
+
