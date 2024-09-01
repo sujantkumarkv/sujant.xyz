@@ -1,6 +1,6 @@
 +++
 title = 'notes'
-date = 2024-05-31
+date = 2024-09-01
 draft = false
 +++
 
