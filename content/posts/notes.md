@@ -6,6 +6,14 @@ draft = false
 
 > this contains my notes, me logging my thoughts on projects/goals/life etc as i go through them along the way. *it would be edited constantly & the latest log would always be on top.*
 
+- 1sep24
+
+just read ["the mundanity of excellence"](https://fermatslibrary.com/s/the-mundanity-of-excellence-an-ethnographic-report-on-stratification-and-olympic-swimmers). it gives a very detailed analysis of success in swimming atheletes but it applies to all field. the difference isn't talent, it's not quantitative (putting more hours), its *qualitative*. qualitative as in, the difference lies in the way they do things, small habits, so small that it itself is almost invisible, so the small efforts "do really count".
+
+those "*mundane*" actions BURNT INTO MEMORY with habits, done over & over again like perfecting the dives, strokes during practice, eating certain foods, be strictly punctual, not thinking too far ahead but get only a short-term goal as the focus, perfecting every part of the stack slowly & suddenly, ALL OF IT COMPOUNDS to give excellence. their motivations are also mundane. watching rocky may fuel someone but they just lets say, focused on always winning the practice matches, and it just became a habit & olympics day didn't seem terrifying. it also clearly states, how "talent" (whatever it is) is a bad concept & doesn't actually explain when studied properly. 
+
+so, its the small actions consistently done which are qualitative habits that leads to excellence.
+
 - 27aug24
 
 when isagi's team won against reo, kunigami & chigiri, chigiri was chosen. reo was playing out of his hatred to prove nagi wrong for leaving him but he lost. he's told, 
