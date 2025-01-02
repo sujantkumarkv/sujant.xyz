@@ -1,7 +1,7 @@
 +++
 title = 'mlx'
 date = 2024-05-25T19:29:12+05:30
-draft = false
+draft = true
 +++
 
 > i dig deep into new machine learning library for apple metal, `mlx`. its clean, built with pytorch, numpy design fundamental & hackable. aiming to build models on top and contribute.

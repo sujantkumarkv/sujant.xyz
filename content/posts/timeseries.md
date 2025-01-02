@@ -1,6 +1,6 @@
 +++
 title = 'timeseries transformers'
-date = 2024-05-23
+date = 2024-05-23T00:00:00Z
 draft = false
 +++
 

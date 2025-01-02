@@ -4,63 +4,64 @@
     <title>Posts on sujānt kumār kv</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on sujānt kumār kv</description>
-    <generator>Hugo -- 0.124.0</generator>
+    <generator>Hugo -- 0.139.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 May 2024 19:29:12 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>mlx</title>
-      <link>http://localhost:1313/posts/mlx/</link>
-      <pubDate>Sat, 25 May 2024 19:29:12 +0530</pubDate>
-      <guid>http://localhost:1313/posts/mlx/</guid>
-      <description>i dig deep into new machine learning library for apple metal, mlx. its clean, built with pytorch, numpy design fundamental &amp;amp; hackable. aiming to build models on top and contribute.</description>
-    </item>
-    <item>
-      <title>notes</title>
-      <link>http://localhost:1313/posts/notes/</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/notes/</guid>
-      <description>this contains my notes, me logging my thoughts on projects/goals/life etc as i go through them along the way. it would be edited constantly &amp;amp; the latest log would always be on top.
-31may24 i feel so limited many a times. saw demon slayer&amp;rsquo;s hashira training arc new episode: tanjiro is training &amp;amp; others feel like he&amp;rsquo;s something different and beyond their common humans BUT this is how he felt when he started, he felt helpless and cried.</description>
-    </item>
     <item>
       <title>timeseries transformers</title>
       <link>http://localhost:1313/posts/timeseries/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/timeseries/</guid>
-      <description>i discuss my college project on using deep learning (notably, transformers&amp;rsquo; flavours) for prediction of streamflow of river stream (here, hemavathi basin).
-the project involves rainfall, river streamflow &amp;amp; temperature data for the study area: hemavathi basin, kaveri river, karnataka, india. thanks to phd senior mukul sahu for arranging the data from India Metrological Department (IMD). The data consisted of daily data points from 2003-2020 with a total of 6575 rows each.</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;i discuss my college project on using deep learning (notably, transformers&amp;rsquo; flavours) for prediction of streamflow of river stream (here, hemavathi basin).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;the project involves rainfall, river streamflow &amp;amp; temperature data for the study area: hemavathi basin, kaveri river, karnataka, india.
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/timeseries/hemavathi_basin.webp&#34; alt=&#34;hemavathi_basin&#34;  /&gt;
+
+thanks to phd senior &lt;code&gt;mukul sahu&lt;/code&gt; for arranging the data from India Metrological Department (IMD). The data consisted of daily data points from &lt;code&gt;2003-2020&lt;/code&gt; with a total of &lt;code&gt;6575 rows&lt;/code&gt; each.&lt;/p&gt;</description>
     </item>
     <item>
       <title>saas attempts</title>
       <link>http://localhost:1313/posts/saasattempts/</link>
       <pubDate>Tue, 21 May 2024 19:32:52 +0530</pubDate>
       <guid>http://localhost:1313/posts/saasattempts/</guid>
-      <description>it was during mid-late 2023. with @sourav, i was trying for something to get off the ground.
-tried a prompts API marketplace, find here. got some traction but obviously no one would pay (not that i didn&amp;rsquo;t expect that completely)
-also tried to launch a better features chatgpt ui (it was very bad at that time). some guy on twitter launched it, was building fast &amp;amp; made profit, so honestly this is what i thought to replicate.</description>
+      <description>&lt;p&gt;it was during mid-late 2023. with &lt;a href=&#34;https://x.com/aimlbigdata&#34;&gt;@sourav&lt;/a&gt;, i was trying for something to get off the ground.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;tried a prompts API marketplace, find &lt;a href=&#34;https://promptbook.vercel.app/&#34;&gt;here&lt;/a&gt;. got some traction but obviously no one would pay (not that i didn&amp;rsquo;t expect that completely)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;also tried to launch a better features chatgpt ui (it was very bad at that time). some guy on twitter launched it, was building fast &amp;amp; made profit, so honestly this is what i thought to replicate. didn&amp;rsquo;t work as he had 50k+ followers too which adds up to brand. ngl he was earlier, better product too.&lt;/p&gt;</description>
     </item>
     <item>
       <title>crypto arc work</title>
       <link>http://localhost:1313/posts/cryptoarc/</link>
       <pubDate>Tue, 21 May 2024 19:31:25 +0530</pubDate>
       <guid>http://localhost:1313/posts/cryptoarc/</guid>
-      <description>around 2021-2022, i first found blockchains and it was fascinating as a piece of technology to me and specially after you know the &amp;ldquo;satoshi lore&amp;rdquo;, how can one not be a fan? he singlehandely catalysed a financial change. bitcoin wasn&amp;rsquo;t created to create digital money and this isn&amp;rsquo;t what most people don&amp;rsquo;t understand, instead it came to exist naturally as part on how the system was architected. i&amp;rsquo;m open to learn whatever strikes my curiosity, so next thing i knew was heads down into blockchain papers.</description>
+      <description>&lt;p&gt;around 2021-2022, i first found blockchains and it was fascinating as a piece of technology to me and specially after you know the &amp;ldquo;satoshi lore&amp;rdquo;, how can one not be a fan? he singlehandely catalysed a financial change. bitcoin wasn&amp;rsquo;t created to create digital money and this isn&amp;rsquo;t what most people don&amp;rsquo;t understand, instead it came to exist naturally as part on how the system was architected. i&amp;rsquo;m open to learn whatever strikes my curiosity, so next thing i knew was heads down into blockchain papers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>hobby startup legalpilot</title>
       <link>http://localhost:1313/posts/legalpilot/</link>
       <pubDate>Tue, 21 May 2024 19:28:46 +0530</pubDate>
       <guid>http://localhost:1313/posts/legalpilot/</guid>
-      <description>the power and usecases of LLMs were evident when i used them. my friend and i were discussing legal arbitration issues in india because his dad had to oversee &amp;amp; help with documents for a few cases. it was clear that legal being the most text intensive text-in text-out business could leverage LLMs. so in mid-2023, i started skipping classes in learning all the ways to make this happen. also participated in buildspace to keep track &amp;amp; ship faster.</description>
+      <description>&lt;p&gt;the power and usecases of LLMs were evident when i used them. my friend and i were discussing legal arbitration issues in india because his dad had to oversee &amp;amp; help with documents for a few cases. it was clear that legal being the most text intensive text-in text-out business could leverage LLMs. so in &lt;strong&gt;&lt;em&gt;mid-2023&lt;/em&gt;&lt;/strong&gt;, i started skipping classes in learning all the ways to make this happen. also participated in buildspace to keep track &amp;amp; ship faster.
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/legalpilot/buildspace.webp&#34; alt=&#34;s4&#34;  /&gt;
+
+being gpu poor, i can&amp;rsquo;t randomly test a bunch of hypothesis on models, i need to understand it really well and also its possible errors beforehand so as to not burn gpu dollars. i put extra time to read post-training reports, blogs etc. i dived deep into transformers and wanted to conquer it to each matmul also because i wanted to understand what would be the best solution to what i&amp;rsquo;m building. i loved gpt4 responses while brainstorming together.
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/legalpilot/lobeugpt4.webp&#34; alt=&#34;lobeugpt4&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>why</title>
       <link>http://localhost:1313/posts/why/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/why/</guid>
-      <description>i often have periods of time where i doubt the very nature of &amp;rsquo;life&amp;rsquo; as we live. it happens at a weirdly strongly manner and i think too much on it (often). here, i ponder what the &amp;ldquo;why&amp;rdquo; of my life is.
-coming soon&amp;hellip;</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;i often have periods of time where i doubt the very nature of &amp;rsquo;life&amp;rsquo; as we live. it happens at a weirdly strongly manner and i think too much on it (often). here, i ponder what the &amp;ldquo;why&amp;rdquo; of my life is.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;coming soon&amp;hellip;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,33 @@
 +++
 title = 'notes'
-date = 2024-09-01
+date = 2025-01-03T00:00:00+05:30
 draft = false
 +++
 
 > this contains my notes, me logging my thoughts on projects/goals/life etc as i go through them along the way. *it would be edited constantly & the latest log would always be on top.*
+
+- 3jan25
+
+its been quite a while now since i wrote here. but here's my 2024 wrapped tweet!
+
+update: i moved to another city on coast working for a mediocre tech services company. the only reason i joined was the opportunity
+to work for/with a client super-large foreign bank (and i love finance at huge scale). me & friend vimshudh have been keen on building something (probably a fintech product) for the Private Equity or Big Fiannce world and if we genuinely solve their problems, they're a big payers industry; but we don't have much clue on how they operate so i thought the job will be a foot in the door to understand this world. i got assigned to teams & will start working this Jan2025. Let's see if this is even a good decision or not. i'll have to take matter in my hands so i'll be trying to speak people in this bank to work in the kinda finance+tech projects i might be interested in. 
+
+{{< twitter user="sujantkumarkv" id="1872909923216179640" >}}
+
+yeah that illegal AMC was fun and we raised 1Million (not in USD lol) for it from the investor which I & friend vimshudh met but he said something that has stuck to me:
+
+> *"this is a proper big boys game and you're not there yet"* 
+
+*BIG BOYS GAME* huh! BBG!
+ 
+and he's correct actually though it sounds hurting. it hit me so hard, i even made an email: `sujantbgg@gmail.com` (_hit me up if its related to building in the Private Equity or similar space_). so, what? we'll just become the big boy to play bigger games. currently, we stopped working on it because we need licenses and its not simple plus we've no capital on our own (we're not the big boys). so we'll see ...
+
+moreover, i also angel invested in my friend's [B2C herbs startup](https://blueherb.co) (also actively involved as CoFounder). We're launching in January & ground work has been done. Let's see how this goes. we aim to scale to sell to US & Dubai too. i would love to raise from my favorites Ritesh Agarwal & the Kamaths.
+
+i also learned swimming & starting to get back to MMA classes soon. i'm also building a consumer app (skincare AI). alpha version is almost done. also, no matter what i'm getting into that one company i really want to work for. wait & watch me win (self prophecy). getting back to reading research papers (ilya's suggested 30papers) and on continuous learning. Also, diving deep into C soon. Also, read many books and just completed a book on Adani (indian business magnate). i forget which all i read honestly, so will add a reading list soon and yeah, i'm back to my yoga kriyas. 
+
+i'm grateful for everything. i've failed many times and now, do not want anymore learnings from failures, lets learn from SUCCESSES now.
 
 - 1sep24
 
