@@ -1,12 +1,31 @@
 +++
 title = 'notes'
-date = 2025-01-03T00:00:00+05:30
+date = 2025-01-11T00:00:00+05:30
 draft = false
 +++
 
 > this contains my notes, me logging my thoughts on projects/goals/life etc as i go through them along the way. *it would be edited constantly & the latest log would always be on top.*
 
-- 3jan25
+>* 11jan25
+
+i don't have newyear resolution stuff (and my newyear is yet to come). i'm jotting down my immediate goals and starting the year with this energy.
+
+{{< twitter user="sujantkumarkv" id="1869500269618516175" >}}
+
+- working on an AI skincare app so i'll launch it soon & take it to $1M ARR in 4 months.
+- read research papers: 
+ilya's 30 pappers + continuous learning of AI models from a live streaming datasource within 4 months.
+{{< twitter user="sujantkumarkv" id="1873863304730538347" >}}
+- train MMA such that i gotta fight matches in next 6 months 
+- learn C in depth and build codecrafters & later build ML in C.
+- ship prabhav AI & raise grants (multilingual + voice support TBD) ~ within 2 month
+- ship text2Learn manim learning video generation (UI + beta launch) ~ within 1 month
+- read a book every week or two; not rush it but make it a priority.
+- scale herbs d2c co.
+- learn hardware design & electronics 
+
+
+>* 3jan25
 
 its been quite a while now since i wrote here. but here's my 2024 wrapped tweet!
 
@@ -29,7 +48,7 @@ i also learned swimming & starting to get back to MMA classes soon. i'm also bui
 
 i'm grateful for everything. i've failed many times and now, do not want anymore learnings from failures, lets learn from SUCCESSES now.
 
-- 1sep24
+>* 1sep24
 
 just read ["the mundanity of excellence"](https://fermatslibrary.com/s/the-mundanity-of-excellence-an-ethnographic-report-on-stratification-and-olympic-swimmers). it gives a very detailed analysis of success in swimming atheletes but it applies to all field. the difference isn't talent, it's not quantitative (putting more hours), its *qualitative*. qualitative as in, the difference lies in the way they do things, small habits, so small that it itself is almost invisible, so the small efforts "do really count".
 
@@ -37,7 +56,7 @@ those "*mundane*" actions BURNT INTO MEMORY with habits, done over & over again 
 
 so, its the small actions consistently done which are qualitative habits that leads to excellence.
 
-- 27aug24
+>* 27aug24
 
 when isagi's team won against reo, kunigami & chigiri, chigiri was chosen. reo was playing out of his hatred to prove nagi wrong for leaving him but he lost. he's told, 
 
@@ -47,7 +66,7 @@ AND SO THIS IS WHAT I SAY MYSELF TOO.
 
 ![27aug24_bluelock_manga_panel](/assets/notes/27aug24_bluelock.webp)
 
-- 23aug24
+>* 23aug24
 
 was watching bluelock. few lines about growing in tough situations hit me. how's awakening like? its not like supersaiyan though, it feels more like solving the jigsaw puzzle after many trials & errors. its when all pieces just fall into places but you gotta make them fall. true awakening happens when you understand who you really are. Becoming aware of your limitations changes how you see & think about everything.
 
@@ -55,7 +74,7 @@ Me, i've many a times adjusted myself according to the failures i had in life. d
 ...but...
 did i fool myself? i say no but i doubt my own actions. my decisions/motivations & actions haven't been in sync, a good reason being i don't command my discipline with body as i thought it in my mind. i need to train physically more too. mostly i know what to do. everyone does. imo the mindset that i'm a tool in this cosmos to do my part is better than thinking everyything is beneath me BUT even in this, i bet i gotta be the best tool there is. if i'm not harsh with myself about actually wanting to win & not take back/adjust with losses (its fine to think that i learned from failure or not stress too much but is that enough? eg, the best atheletes have very harsh lives & the sport is their only way out. their hunger is beyond what i see right now, that's what i lack.) i'm not good enough, but as the midnight trek experience, I JUST NEED TO FOCUS ON WALKING THAT NEXT STEP, then CONTINUE WALKING JUST THAT NEXT STEP.
 
-- 18jul24
+>* 18jul24
 
 a small win, we got a vc experienced with markets as kinda mentor, also raised a million INR (~12k+USD) for the fund, slow but definite growth. me & vishudh are flying to delhi from 21st july to meet & learn from him. capital is cheap but someone willing to give their time & guide us is more valuable.
 
@@ -67,7 +86,7 @@ minecraft computer is wip, CCA yet to be done. prabhav yet to ship with AI chat.
 
 also, was watching goggins & one thing he said really stuck me. the host talks about how he feels in a morning, lots of possible problems, this & that... and goggins says, "keep talking".. damn that was so freaking cold. he seems to have crossed the mental wall and i think that's the most important part. many people (me) having the ability REFUSE to do that extra work, study that extra but don't. why? afraid of action. he now thrives on that exactly. its fun knowing almost no one else in the world will go & do this work which he's gonna go & do. its like the isekai anime being thrown to the hell dungeon & you gotta face death, survive, eventually flourish in that darkeness and become strong. each time i'm in a similar situation, i gotta remember this. its not that hard, especially in modern day. everyone is stuck to their screens, slacking, jerking, procrastinating. i have to thrive of this darkness and i will.
 
-- 21jun24
+>* 21jun24
 
 realising that i seriously overcompare myself to others' situations & results. maharshi is doing great work, i haven't 'delved' into C but seeing smolorg, i think i should focus on that now. i need to do my things daily & daily and in some time, weeks or months, it'll be great too. i keep shifting my focus too much remember this:
 
@@ -75,7 +94,7 @@ realising that i seriously overcompare myself to others' situations & results. m
 
 > "once in a moment of joy and clarity, once i have realized and decided what's my well being, then i shall just do it. even if it feels like hell later, do it in an unwavering way. to such unwavering intent, it just can't be denied. that's well being."
 
-- 31may24
+>* 31may24
 
 i feel so limited many a times. saw demon slayer's hashira training arc new episode: tanjiro is training & others feel like he's something different and beyond their common humans BUT this is how he felt when he started, he felt helpless and cried. its when he faced upper ranks, lost rengoku, almost died many times but survived. those scars are what make him, but its not him to complain or stop, always focused on high quality result: to defeat muzan. his insane grueling training but with a kind smile on his face is a such a powerful thing to see, it moved me.
 
@@ -87,13 +106,13 @@ i can rise to it too. constantly raising my limits is the only thing i need to d
 
 
 
-- 24may24
+>* 24may24
 
 been slacking last few days. so much to do and you feel small and feel there's no time? well, you're correct but its probably the most important time in human history & you're whining? you've blood flowing through you, well and alive and yet you feel you can't. yacine san said me too: "you really can". i have the humanity's finest creation machine LLM god by my side and i can just do things. i need to do enough things to understand that i can actually *just do* anything.
 
 {{< twitter user="sujantkumarkv" id="1792529016001642823" >}}
 
-- 17may24
+>* 17may24
 
 started diving deep into mlx. its new, so its clean and the implementations of `nn.Module`, c++ bindings with `mlx.core` is interesting. i did the 'hello world' of DL with training mlp on mnist. will move onto LM and then vision.
 
@@ -101,7 +120,7 @@ wrapped in my morning deep thought:
 ![todos-ss](/assets/notes/17may24.webp)
 
 
-- 10may24
+>* 10may24
 
 been a lot of gap but i'll try to consistently write here. i graduated, was shifting places, travelling, not a lot of work done but i'm back. my macbook's charging adapter is acting funny, so apple care folks told me to submit for 4-5 days & may potentially also format my data. like wth? lotta time spent in backing up data in usb.
 
@@ -115,11 +134,11 @@ i'm excited by the fact that i can just train models on my mac with mlx, that un
 
 everything aside, back to home & gotta get back to my boxing training.
 
-- 19apr24
+>* 19apr24
 
 late update but lagllama + encoder-decoder model is done.
 
-- 03apr24
+>* 03apr24
 
 have to complete the time-series-transformers project (also, college's major project) which includes multivariate data: streamflow, rainfall, temperature etc. i've been procrastinating it on forever & my friend did his part of LSTM, i gotta ship something by end of today. i've a hf's decoder probabilistic one but damn its dataset cleaning has been tough, also i've an encoder-decoder in mind, spatio-temporal transformer's "Long transformer paper" i read much much earlier and yeah, a latest foundation lagllama model (gotta finetune).
 
