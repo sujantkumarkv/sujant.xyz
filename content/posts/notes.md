@@ -29,8 +29,8 @@ ilya's 30 pappers + continuous learning of AI models from a live streaming datas
 
 its been quite a while now since i wrote here. but here's my 2024 wrapped tweet!
 
-update: i moved to another city on coast working for a mediocre tech services company. the only reason i joined was the opportunity
-to work for/with a client super-large foreign bank (and i love finance at huge scale). me & friend vimshudh have been keen on building something (probably a fintech product) for the Private Equity or Big Fiannce world and if we genuinely solve their problems, they're a big payers industry; but we don't have much clue on how they operate so i thought the job will be a foot in the door to understand this world. i got assigned to teams & will start working this Jan2025. Let's see if this is even a good decision or not. i'll have to take matter in my hands so i'll be trying to speak people in this bank to work in the kinda finance+tech projects i might be interested in. 
+update: i moved to another city on coast working for a tech services company. it was an opportunity
+to work for/with a large foreign bank (and i love finance at huge scale). me & friend vimshudh have been keen on building something (probably a fintech product) for the Private Equity or Big Fiannce world and if we genuinely solve their problems, they're a big payers industry; but we don't have much clue on how they operate so i thought the job will be a foot in the door to understand this world. i got assigned to teams & will start working this Jan2025. Let's see if this is even a good decision or not. i'll have to take matter in my hands so i'll be trying to speak people in this bank to work in the kinda finance+tech projects i might be interested in. 
 
 {{< twitter user="sujantkumarkv" id="1872909923216179640" >}}
 
