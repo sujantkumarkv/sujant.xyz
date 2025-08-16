@@ -6,8 +6,22 @@
     <description>Recent content in Posts on sujānt kumār kv</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>notes</title>
+      <link>http://localhost:1313/posts/notes/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/notes/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;this contains my notes, me logging my thoughts on projects/goals/life etc as i go through them along the way. &lt;em&gt;it would be edited constantly &amp;amp; the latest log would always be on top.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;11jan25&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;i don&amp;rsquo;t have newyear resolution stuff (and our newyear is yet to come so). i&amp;rsquo;m jotting down my immediate goals and starting the year with this energy.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;enough of learning from failures. i think this mindset being peddled is wrong. gotta need to learn from success now. &lt;a href=&#34;https://t.co/bCHCUPzvzg&#34;&gt;pic.twitter.com/bCHCUPzvzg&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>timeseries transformers</title>
       <link>http://localhost:1313/posts/timeseries/</link>
